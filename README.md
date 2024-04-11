@@ -25,8 +25,6 @@ Nous avons fixé une caméra Intel au dessus du robot Yumi, nous permettant de c
     <img src="image_cam.jpg" width="300" alt="Description de l'image">
 </div>
 
-*Je ne sais pas quoi mettre comme explication après* 
-
 
 ### Traitement de l'image
 
